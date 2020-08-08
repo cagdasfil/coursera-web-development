@@ -1,0 +1,31 @@
+nav {
+    border: 2px solid lightblue;
+    background-color: midnightblue;
+    margin-bottom: 20px;
+}
+
+.navbar {
+    padding-bottom: 0;
+}
+
+.navbar .navbar-brand {
+    font-size: 2.5rem;
+    color: lightblue;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-size: 150%;
+    color: lightblue;
+}
+
+.nav-item {
+    border: 1px solid lightblue;
+    margin-left: -1rem;
+    margin-right: -1rem;
+}
+
+.food-box {
+    margin: 40px;
+    padding: 10px;
+    background-color: lightgray;
+}
